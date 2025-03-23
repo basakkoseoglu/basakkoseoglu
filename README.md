@@ -1,12 +1,12 @@
 <h1 align="center">Merhaba 👋, ben Başak Köseoğlu</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön yüz geliştiricisi</h3>
 
-- 📫 Bana nasıl ulaşırsınız **basakoseoğlu@gmail. com**
+- 📫 Bana nasıl ulaşırsınız **basakoseoglu@gmail. com**
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/başak köseoğlu" target="blank" ><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="başak köseoğlu" height = "30" genişlik = "40" /></a>
-<a href = "https://instagram.com/@basakoseoğlu" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /instagram.svg" alt = "@basakoseoğlu" yükseklik = "30" genişlik = "40" /></a>
+<a href="[https://linkedin.com/in/başak köseoğlu](https://www.linkedin.com/in/basakoseoglu/)" target="blank" ><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="başak köseoğlu" height = "30" genişlik = "40" /></a>
+<a href = "https://instagram.com/@basakoseoglu" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /instagram.svg" alt = "@basakoseoğlu" yükseklik = "30" genişlik = "40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
