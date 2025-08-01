@@ -15,24 +15,24 @@
 
 ## 🛠 Skills & Technologies
 
-**Mobile Development**  
+**📱 Mobile Development**  
 - Flutter, Dart  
 - React Native (Expo)  
 
-**Web Development**  
+**🌐 Web Development**  
 - JavaScript, TypeScript  
 - HTML, CSS  
 
-**Backend & Database**  
+**🗄️Backend & Database**  
 - SQL  
 - Firebase Authentication  
 - Firebase Firestore  
 - RESTful API  
 - JWT Authentication  
 
-**Programming Languages**  
+**💻 Programming Languages**  
 - Python  
 
-**Tools**  
+**🛠 Tools**  
 - GitHub, Git  
 
