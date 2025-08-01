@@ -36,8 +36,3 @@
 **Tools**  
 - GitHub, Git  
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basakkoseoglu&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
